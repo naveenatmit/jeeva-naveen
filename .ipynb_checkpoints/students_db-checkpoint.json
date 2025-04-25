@@ -1,0 +1,12 @@
+{
+    "student1": {
+        "password": "pass1",
+        "name": "John Doe",
+        "borrowed_books": []
+    },
+    "student2": {
+        "password": "pass2",
+        "name": "Jane Smith",
+        "borrowed_books": []
+    }
+}

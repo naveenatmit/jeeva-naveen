@@ -1,0 +1,19 @@
+{
+    "student1": {
+        "password": "pass1",
+        "name": "John Doe",
+        "borrowed_books": []
+    },
+    "student2": {
+        "password": "pass2",
+        "name": "Jane Smith",
+        "borrowed_books": []
+    },
+    "naveen": {
+        "password": "nav1",
+        "name": "Naveenkumar SEKAR",
+        "borrowed_books": [
+            "5"
+        ]
+    }
+}

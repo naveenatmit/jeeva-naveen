@@ -1,0 +1,37 @@
+{
+    "1": {
+        "title": "Python Programming",
+        "author": "John Smith",
+        "status": "available",
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "2": {
+        "title": "Data Science Essentials",
+        "author": "Emily Johnson",
+        "status": "available",
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "3": {
+        "title": "Machine Learning Basics",
+        "author": "Michael Chen",
+        "status": "available",
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "4": {
+        "title": "Algorithms and Data Structures",
+        "author": "Sarah Williams",
+        "status": "available",
+        "borrowed_by": null,
+        "due_date": null
+    },
+    "5": {
+        "title": "Web Development with Flask",
+        "author": "David Brown",
+        "status": "borrowed",
+        "borrowed_by": "naveen",
+        "due_date": "2025-05-09"
+    }
+}
