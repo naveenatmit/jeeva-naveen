@@ -196,4 +196,4 @@ This project is open for contributions. Please follow the modular architecture w
 ## Acknowledgements
 
 - Created as a modular educational project for library management
-- Built with Python and ipywidgets
+- Built with Python and ipywidgets  
